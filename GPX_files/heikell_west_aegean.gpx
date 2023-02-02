@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="37.915166667" lon="23.011333333">
+  <name>1-1 E Entrance to Corinth Canal</name>
+</wpt>
+<wpt lat="37.866666667" lon="23.453333333">
+  <name>1-2 0.5M S of Ák Kóniki (Salamina SW End)</name>
+</wpt>
+<wpt lat="37.911166667" lon="23.7">
+  <name>1-3 Marina Alimos (Kalamáki/Athens)</name>
+</wpt>
+<wpt lat="37.640833333" lon="23.934">
+  <name>1-4 0.5M S of W end of Gaidhouronsi</name>
+</wpt>
+<wpt lat="37.643833333" lon="24.021833333">
+  <name>1-5 0.25M S of temple of Sounion</name>
+</wpt>
+<wpt lat="37.642666667" lon="24.104166667">
+  <name>1-6 0.15M S of S end of Makronisos</name>
+</wpt>
+</gpx>
