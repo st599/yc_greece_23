@@ -18,4 +18,31 @@
 <wpt lat="37.642666667" lon="24.104166667">
   <name>1-6 0.15M S of S end of Makronisos</name>
 </wpt>
+<wpt lat="37.87" lon="23.143333333">
+  <name>2-1 0.5M N of N Evraios</name>
+</wpt>
+<wpt lat="37.7415" lon="23.148833333">
+  <name>2-2 1M S of Åk Trelli (Ormos Sofikoú)</name>
+</wpt>
+<wpt lat="37.713666667" lon="23.273">
+  <name>2-3 0.25M N of N. Kira</name>
+</wpt>
+<wpt lat="37.761666667" lon="23.412833333">
+  <name>2-4 0.25M W of Åk Plakáia (Aigina)</name>
+</wpt>
+<wpt lat="37.762166667" lon="23.581833333">
+  <name>2-5 0.75M E of Åk Tourios light</name>
+</wpt>
+<wpt lat="37.687666667" lon="23.447">
+  <name>2-6 S End of Stenón Monis (Aigina)</name>
+</wpt>
+<wpt lat="37.527" lon="23.421833333">
+  <name>2-7 N Channel in to Poros</name>
+</wpt>
+<wpt lat="37.4935" lon="23.462333333">
+  <name>2-8 SE Channel in to Poros</name>
+</wpt>
+<wpt lat="37.434166667" lon="23.535833333">
+  <name>2-9 S end of Tselevina Channel</name>
+</wpt>
 </gpx>
