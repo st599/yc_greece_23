@@ -45,4 +45,52 @@
 <wpt lat="37.434166667" lon="23.535833333">
   <name>2-9 S end of Tselevina Channel</name>
 </wpt>
+<wpt lat="37.434166667" lon="23.535833333">
+  <name>3-1 S end of Tselevina Channel</name>
+</wpt>
+<wpt lat="37.376" lon="23.579">
+  <name>3-2 0.5M N of Åk Zoúrva (Ihdra)</name>
+</wpt>
+<wpt lat="37.321666667" lon="23.358">
+  <name>3-3 0.5M S of Dhokós SE Light</name>
+</wpt>
+<wpt lat="37.345666667" lon="23.283">
+  <name>3-4 Åk Mouzáki – N. Dhokós Channel</name>
+</wpt>
+<wpt lat="37.222166667" lon="23.4435">
+  <name>3-5 1.75M S of N. Stavrós</name>
+</wpt>
+<wpt lat="37.250833333" lon="23.274333333">
+  <name>3-6 0.5M S of N. Trikeri</name>
+</wpt>
+<wpt lat="37.280333333" lon="23.2">
+  <name>3-7 0.5M S of Åk Aimilianós</name>
+</wpt>
+<wpt lat="37.284666667" lon="23.077833333">
+  <name>3-8 0.1M W of Petrokavaro</name>
+</wpt>
+<wpt lat="37.3515" lon="23.059833333">
+  <name>4-1 0.25M W of Åk Kórakas</name>
+</wpt>
+<wpt lat="37.431666667" lon="22.950166667">
+  <name>4-2 1M W of Nisis Ipsill Light</name>
+</wpt>
+<wpt lat="37.51" lon="22.833833333">
+  <name>4-3 1M W of Åk Megali (Toló)</name>
+</wpt>
+<wpt lat="37.414333333" lon="22.781166667">
+  <name>4-4 0.5M E of Åk Åstrous</name>
+</wpt>
+<wpt lat="37.184" lon="22.933333333">
+  <name>4-5 1M E of Åk Sabateki</name>
+</wpt>
+<wpt lat="36.7695" lon="23.115">
+  <name>4-6 0.25M E of Åk Yérakas</name>
+</wpt>
+<wpt lat="36.535" lon="23.164833333">
+  <name>4-7 0.5M E of Åk Kamili</name>
+</wpt>
+<wpt lat="36.448833333" lon="23.207666667">
+  <name>4-8 0.25M E of Åk Maleas</name>
+</wpt>
 </gpx>
