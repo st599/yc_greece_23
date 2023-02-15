@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>West Aegean, 4th Edition</name>
+  <desc>GPX waypoints listed in each chapter. Number system is [chapt]-[wpt]</desc>
+  <author>Simon Thompson</author>
+  <link>https://www.imray.com/product/West-Aegean/IB0219-1/</link>
+</metadata>
 <wpt lat="37.915166667" lon="23.011333333">
   <ele>0.0</ele>
   <name>1-1 E Entrance to Corinth Canal</name>
