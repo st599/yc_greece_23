@@ -1,96 +1,263 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <wpt lat="37.915166667" lon="23.011333333">
+  <ele>0.0</ele>
   <name>1-1 E Entrance to Corinth Canal</name>
 </wpt>
 <wpt lat="37.866666667" lon="23.453333333">
+  <ele>0.0</ele>
   <name>1-2 0.5M S of Ák Kóniki (Salamina SW End)</name>
 </wpt>
 <wpt lat="37.911166667" lon="23.7">
+  <ele>0.0</ele>
   <name>1-3 Marina Alimos (Kalamáki/Athens)</name>
 </wpt>
 <wpt lat="37.640833333" lon="23.934">
+  <ele>0.0</ele>
   <name>1-4 0.5M S of W end of Gaidhouronsi</name>
 </wpt>
 <wpt lat="37.643833333" lon="24.021833333">
+  <ele>0.0</ele>
   <name>1-5 0.25M S of temple of Sounion</name>
 </wpt>
 <wpt lat="37.642666667" lon="24.104166667">
+  <ele>0.0</ele>
   <name>1-6 0.15M S of S end of Makronisos</name>
 </wpt>
 <wpt lat="37.87" lon="23.143333333">
+  <ele>0.0</ele>
   <name>2-1 0.5M N of N Evraios</name>
 </wpt>
 <wpt lat="37.7415" lon="23.148833333">
+  <ele>0.0</ele>
   <name>2-2 1M S of Åk Trelli (Ormos Sofikoú)</name>
 </wpt>
 <wpt lat="37.713666667" lon="23.273">
+  <ele>0.0</ele>
   <name>2-3 0.25M N of N. Kira</name>
 </wpt>
 <wpt lat="37.761666667" lon="23.412833333">
+  <ele>0.0</ele>
   <name>2-4 0.25M W of Åk Plakáia (Aigina)</name>
 </wpt>
 <wpt lat="37.762166667" lon="23.581833333">
+  <ele>0.0</ele>
   <name>2-5 0.75M E of Åk Tourios light</name>
 </wpt>
 <wpt lat="37.687666667" lon="23.447">
+  <ele>0.0</ele>
   <name>2-6 S End of Stenón Monis (Aigina)</name>
 </wpt>
 <wpt lat="37.527" lon="23.421833333">
+  <ele>0.0</ele>
   <name>2-7 N Channel in to Poros</name>
 </wpt>
 <wpt lat="37.4935" lon="23.462333333">
+  <ele>3.6</ele>
   <name>2-8 SE Channel in to Poros</name>
 </wpt>
 <wpt lat="37.434166667" lon="23.535833333">
+  <ele>0.0</ele>
   <name>2-9 S end of Tselevina Channel</name>
 </wpt>
 <wpt lat="37.434166667" lon="23.535833333">
+  <ele>0.0</ele>
   <name>3-1 S end of Tselevina Channel</name>
 </wpt>
 <wpt lat="37.376" lon="23.579">
+  <ele>0.0</ele>
   <name>3-2 0.5M N of Åk Zoúrva (Ihdra)</name>
 </wpt>
 <wpt lat="37.321666667" lon="23.358">
+  <ele>0.0</ele>
   <name>3-3 0.5M S of Dhokós SE Light</name>
 </wpt>
 <wpt lat="37.345666667" lon="23.283">
+  <ele>0.0</ele>
   <name>3-4 Åk Mouzáki – N. Dhokós Channel</name>
 </wpt>
 <wpt lat="37.222166667" lon="23.4435">
+  <ele>0.0</ele>
   <name>3-5 1.75M S of N. Stavrós</name>
 </wpt>
 <wpt lat="37.250833333" lon="23.274333333">
+  <ele>0.0</ele>
   <name>3-6 0.5M S of N. Trikeri</name>
 </wpt>
 <wpt lat="37.280333333" lon="23.2">
+  <ele>0.0</ele>
   <name>3-7 0.5M S of Åk Aimilianós</name>
 </wpt>
 <wpt lat="37.284666667" lon="23.077833333">
+  <ele>0.0</ele>
   <name>3-8 0.1M W of Petrokavaro</name>
 </wpt>
 <wpt lat="37.3515" lon="23.059833333">
+  <ele>0.0</ele>
   <name>4-1 0.25M W of Åk Kórakas</name>
 </wpt>
 <wpt lat="37.431666667" lon="22.950166667">
+  <ele>0.0</ele>
   <name>4-2 1M W of Nisis Ipsill Light</name>
 </wpt>
 <wpt lat="37.51" lon="22.833833333">
+  <ele>0.0</ele>
   <name>4-3 1M W of Åk Megali (Toló)</name>
 </wpt>
 <wpt lat="37.414333333" lon="22.781166667">
+  <ele>0.0</ele>
   <name>4-4 0.5M E of Åk Åstrous</name>
 </wpt>
 <wpt lat="37.184" lon="22.933333333">
+  <ele>0.0</ele>
   <name>4-5 1M E of Åk Sabateki</name>
 </wpt>
 <wpt lat="36.7695" lon="23.115">
+  <ele>0.0</ele>
   <name>4-6 0.25M E of Åk Yérakas</name>
 </wpt>
 <wpt lat="36.535" lon="23.164833333">
+  <ele>0.0</ele>
   <name>4-7 0.5M E of Åk Kamili</name>
 </wpt>
 <wpt lat="36.448833333" lon="23.207666667">
+  <ele>0.0</ele>
   <name>4-8 0.25M E of Åk Maleas</name>
+</wpt>
+<wpt lat="37.704666667" lon="24.351">
+  <ele>0.0</ele>
+  <name>5-1 1M N of Åk Perlevos (Kéa)</name>
+</wpt>
+<wpt lat="37.519" lon="24.275">
+  <ele>0.0</ele>
+  <name>5-2 0.2M S of Åk Tamélos (Kéa)</name>
+</wpt>
+<wpt lat="37.486833333" lon="24.4335">
+  <ele>0.0</ele>
+  <name>5-3 0.25M N of Åk Kéfalos (Kithnos)</name>
+</wpt>
+<wpt lat="37.284" lon="24.3635">
+  <ele>0.0</ele>
+  <name>5-4 1M S of Åk Ay Dhimitrios (Kithnos)</name>
+</wpt>
+<wpt lat="37.219" lon="24.4915">
+  <ele>0.0</ele>
+  <name>5-5 0.5M N of Åk Volos</name>
+</wpt>
+<wpt lat="37.114833333" lon="24.405166667">
+  <ele>0.0</ele>
+  <name>5-6 0.6M SW of Åk Kiklops (Serifos)</name>
+</wpt>
+<wpt lat="37.1055" lon="24.512833333">
+  <ele>0.0</ele>
+  <name>5-7 0.45M SE of Åk Spathi</name>
+</wpt>
+<wpt lat="37.064333333" lon="24.641166667">
+  <ele>0.0</ele>
+  <name>5-8 1.25M N of Åk Fillipos (Kithnos)</name>
+</wpt>
+<wpt lat="36.891666667" lon="24.715166667">
+  <ele>0.0</ele>
+  <name>5-9 0.4M W of Åk Karavi (N Kitriani/Sifnos)</name>
+</wpt>
+<wpt lat="36.751666667" lon="24.243333333">
+  <ele>0.0</ele>
+  <name>5-10 1M S of Åk Vlikhadi (Andimilos)</name>
+</wpt>
+<wpt lat="36.766833333" lon="24.369">
+  <ele>0.0</ele>
+  <name>5-11 Approaches to Ornos Milou</name>
+</wpt>
+<wpt lat="36.7705" lon="24.532">
+  <ele>0.0</ele>
+  <name>5-12 Mid-channel Steno Milou-Kimolou</name>
+</wpt>
+<wpt lat="36.731333333" lon="24.644">
+  <ele>0.0</ele>
+  <name>5-13 0.6M S of N. Poliagos</name>
+</wpt>
+<wpt lat="37.642666667" lon="24.104166667">
+  <ele>0.0</ele>
+  <name>6-1 0.15M S of Åk Angálistros (Makronis S End)</name>
+</wpt>
+<wpt lat="37.743833333" lon="24.088166667">
+  <ele>0.0</ele>
+  <name>6-2 0.5M of Åk Vrisáki</name>
+</wpt>
+<wpt lat="38.123333333" lon="24.09">
+  <ele>0.0</ele>
+  <name>6-3 1.5M E of Åk Marathonas</name>
+</wpt>
+<wpt lat="37.943333333" lon="24.388333333">
+  <ele>0.0</ele>
+  <name>6-4 1M S of Nisis Paximádhi (Órmos Karistou)</name>
+</wpt>
+<wpt lat="38.1945" lon="24.083833333">
+  <ele>0.0</ele>
+  <name>6-5 Mid-channel between Vrak Levkasia and Áy Marina</name>
+</wpt>
+<wpt lat="38.33" lon="24.002">
+  <ele>0.0</ele>
+  <name>6-6 1M W of Åk Aliveri (Evia)</name>
+</wpt>
+<wpt lat="38.407" lon="23.648333333">
+  <ele>3.2</ele>
+  <name>6-7 Mid-channel Stenón Avlidou-Boúrtzi (Åk Avlis)</name>
+</wpt>
+<wpt lat="38.476833333" lon="23.596833333">
+  <ele>0.0</ele>
+  <name>6-8 Entrance to Vorios Limani (Khalkis)</name>
+</wpt>
+<wpt lat="38.5585" lon="23.531333333">
+  <ele>0.0</ele>
+  <name>6-9 2.5M S of Åk Årkitsa</name>
+</wpt>
+<wpt lat="38.784666667" lon="23.036333333">
+  <ele>0.0</ele>
+  <name>6-10 2.5M S of Åk Årkitsa</name>
+</wpt>
+<wpt lat="38.793" lon="22.827166667">
+  <ele>0.0</ele>
+  <name>6-11 0.5M S of N. Strongili (Likhades)</name>
+</wpt>
+<wpt lat="38.879333333" lon="22.851166667">
+  <ele>0.0</ele>
+  <name>6-12 0.5M N of Åk Vasalina</name>
+</wpt>
+<wpt lat="39.009833333" lon="23.087">
+  <ele>0.0</ele>
+  <name>6-13 0.5M E of E. end of Aryonisos</name>
+</wpt>
+<wpt lat="39.065166667" lon="23.068833333">
+  <ele>0.0</ele>
+  <name>6-14 Mid-channel Stenón Volou (1.5M N of Åk Stavrós)</name>
+</wpt>
+<wpt lat="39.343666667" lon="22.943333333">
+  <ele>16.6</ele>
+  <name>6-15 Åk Seskoulo (approaches to Voulos)</name>
+</wpt>
+<wpt lat="39.092833333" lon="23.339333333">
+  <ele>0.0</ele>
+  <name>6-16 Mid-channel E end of Stenón Trikeri (2.5M N of Pondikonisi)</name>
+</wpt>
+<wpt lat="39.097333333" lon="23.5015">
+  <ele>0.0</ele>
+  <name>7-1 1M S of N. Tsoungria (Skiathos)</name>
+</wpt>
+<wpt lat="39.059833333" lon="23.719833333">
+  <ele>0.0</ele>
+  <name>7-2 0.5M S of Åk Velona (Skópelos)</name>
+</wpt>
+<wpt lat="39.140333333" lon="23.820666667">
+  <ele>0.0</ele>
+  <name>7-3 Stenón Alinissou (Mid-channel between N. Mikró and Åk Telio)</name>
+</wpt>
+<wpt lat="39.243" lon="23.9705">
+  <ele>0.0</ele>
+  <name>7-4 Mid-channel N Alonnisos – Åk Aspro (N. Peristeri)</name>
+</wpt>
+<wpt lat="39.375333333" lon="24.087333333">
+  <ele>0.0</ele>
+  <name>7-5 0.5M NE of Åk Kira (N. Pelagos)</name>
 </wpt>
 </gpx>
