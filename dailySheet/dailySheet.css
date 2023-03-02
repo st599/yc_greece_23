@@ -1,0 +1,118 @@
+@font-face {
+  font-family: 'dailyFont';
+  src:  url('TopSecretStamp.ttf') format('truetype');
+}
+
+
+body {
+  background-color: #ffffff;
+}
+
+h1 {
+  font-family: 'dailyFont', Fallback, sans-serif;
+  font-size: 36px;
+  text-align: center;
+  color:#03254c;
+}
+
+h2 {
+  font-family: 'dailyFont', Fallback, sans-serif;
+  font-size: 28px;
+  color:white;
+}
+
+h3 {
+  font-family: 'dailyFont', Fallback, sans-serif;
+  font-size: 22px;
+  color:white;
+}
+
+h4 {
+  font-family: 'dailyFont', Fallback, sans-serif;
+  font-size: 18px;
+  color:white;
+}
+
+table, th, td {
+  font-family: 'dailyFont', Fallback, sans-serif;
+  font-size: 22px;
+  color:white;
+}
+
+p {
+  font-family: 'dailyFont', Fallback, sans-serif;
+  font-size: 16px;
+  color:#03254c;
+}
+
+
+.titleDiv {
+  background-color: #c4d2db;
+  position: absolute;
+  width: 1000px;
+  height: 400px;
+  top: 5px;
+  left: 5px;
+  text-align: center;
+}
+
+.locationDiv {
+  background-color: #03254c;
+  position: absolute;
+  width: 495px;
+  height: 400px;
+  top: 410px;
+  left: 5px;
+  text-align: left;
+}
+
+.weatherDiv {
+  background-color: #03254c;
+  position: absolute;
+  width: 495px;
+  height: 400px;
+  top: 410px;
+  left: 510px;
+  text-align: left;
+}
+
+.almanac1Div {
+  background-color: #03254c;
+  position: absolute;
+  width: 150px;
+  height: 60px;
+  top: 815px;
+  left: 5px;
+  text-align: left;
+}
+
+.almanac2Div {
+  background-color: #03254c;
+  position: absolute;
+  width: 850px;
+  height: 60px;
+  top: 815px;
+  left: 155px;
+  text-align: left;
+}
+
+.destinationDiv {
+  background-color: #c4d2db;
+  position: absolute;
+  width: 850px;
+  height: 495px;
+  top: 5px;
+  left: 1010px;
+  text-align: left;
+}
+
+.navigationDiv {
+  background-color: #c4d2db;
+  position: absolute;
+  width: 850px;
+  height: 370px;
+  top: 505px;
+  left: 1010px;
+  text-align: left;
+}
+
